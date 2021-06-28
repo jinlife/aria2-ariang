@@ -1,0 +1,3 @@
+0 8 * * * sh /update-bt-tracker.sh
+# end line
+# The time in Synology log is fake. But it run at correct time after set timezone in init.sh. We can ignore Synology log time.
